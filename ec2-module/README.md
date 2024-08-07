@@ -2,11 +2,11 @@
 # EC2 Instance Module
 Structure
 
-ec2-module/
+`ec2-module/
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
-└── README.md
+└── README.md`
 
 A module for creating EC2 instance in AWS.
 
