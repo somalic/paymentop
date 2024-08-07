@@ -6,7 +6,8 @@ Structure
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
-└── README.md```
+└── README.md
+```
 
 A module for creating EC2 instance in AWS.
 
